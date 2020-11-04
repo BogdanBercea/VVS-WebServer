@@ -22,7 +22,7 @@ To download and compile the source code you need to install:
 Step 2 - Get the source code
 ----------------------------
 Download the project source code from GitHub repository.
-This will create a folder "java-WebServer" containing the project source files. 
+This will create a folder "VVS-WebServer" containing the project source files. 
 
 Step 3 - Compile it!
 --------------------

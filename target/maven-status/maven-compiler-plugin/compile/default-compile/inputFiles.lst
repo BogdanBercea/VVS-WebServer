@@ -1,8 +1,8 @@
-/home/bogdan/Desktop/git_webserver/java-WebServer/src/main/java/com/bercea/java/WebServer.java
-/home/bogdan/Desktop/git_webserver/java-WebServer/src/main/java/com/bercea/java/Logger.java
-/home/bogdan/Desktop/git_webserver/java-WebServer/src/main/java/com/bercea/java/RequestHandler.java
-/home/bogdan/Desktop/git_webserver/java-WebServer/src/main/java/com/bercea/java/http/HttpRequest.java
-/home/bogdan/Desktop/git_webserver/java-WebServer/src/main/java/com/bercea/java/http/Method.java
-/home/bogdan/Desktop/git_webserver/java-WebServer/src/main/java/com/bercea/java/http/HttpResponse.java
-/home/bogdan/Desktop/git_webserver/java-WebServer/src/main/java/com/bercea/java/http/Status.java
-/home/bogdan/Desktop/git_webserver/java-WebServer/src/main/java/com/bercea/java/http/ContentType.java
+/home/bogdan/Desktop/git/VVS-WebServer/src/main/java/com/bercea/java/RequestHandler.java
+/home/bogdan/Desktop/git/VVS-WebServer/src/main/java/com/bercea/java/http/ContentType.java
+/home/bogdan/Desktop/git/VVS-WebServer/src/main/java/com/bercea/java/http/Status.java
+/home/bogdan/Desktop/git/VVS-WebServer/src/main/java/com/bercea/java/Logger.java
+/home/bogdan/Desktop/git/VVS-WebServer/src/main/java/com/bercea/java/http/HttpResponse.java
+/home/bogdan/Desktop/git/VVS-WebServer/src/main/java/com/bercea/java/WebServer.java
+/home/bogdan/Desktop/git/VVS-WebServer/src/main/java/com/bercea/java/http/HttpRequest.java
+/home/bogdan/Desktop/git/VVS-WebServer/src/main/java/com/bercea/java/http/Method.java
