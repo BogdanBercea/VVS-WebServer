@@ -1,0 +1,4 @@
+com/bercea/java/WebServerTest.class
+com/bercea/java/http/ContentTypeTest.class
+com/bercea/java/http/HttpRequestTest.class
+com/bercea/java/http/HttpResponseTest.class
