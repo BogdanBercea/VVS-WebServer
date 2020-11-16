@@ -1,0 +1,18 @@
+{
+  "warnings": [
+    {
+      "code": "",
+      "cwe": 0,
+      "level": 0,
+      "positions": [],
+      "message": "Invalid License.",
+      "stacktrace": [
+        "com.pvsstudio.Main.checkLicense(Main.java:244)",
+        "com.pvsstudio.Main.main(Main.java:439)"
+      ],
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}
