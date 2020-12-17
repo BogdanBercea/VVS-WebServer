@@ -1,4 +1,4 @@
-/home/bogdan/Desktop/vvs_git/VVS-WebServer/src/test/java/com/bercea/java/http/HttpResponseTest.java
-/home/bogdan/Desktop/vvs_git/VVS-WebServer/src/test/java/com/bercea/java/http/HttpRequestTest.java
-/home/bogdan/Desktop/vvs_git/VVS-WebServer/src/test/java/com/bercea/java/http/ContentTypeTest.java
-/home/bogdan/Desktop/vvs_git/VVS-WebServer/src/test/java/com/bercea/java/WebServerTest.java
+/home/bogdan/Desktop/vvsTest/VVS-WebServer/web_server/src/test/java/com/bercea/java/WebServerTest.java
+/home/bogdan/Desktop/vvsTest/VVS-WebServer/web_server/src/test/java/com/bercea/java/http/HttpRequestTest.java
+/home/bogdan/Desktop/vvsTest/VVS-WebServer/web_server/src/test/java/com/bercea/java/http/HttpResponseTest.java
+/home/bogdan/Desktop/vvsTest/VVS-WebServer/web_server/src/test/java/com/bercea/java/http/ContentTypeTest.java
