@@ -5,52 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da6b6d33-caba-470d-a799-e1cd0e0bdfbd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-WebServer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/bercea/java/Logger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/bercea/java/RequestHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/bercea/java/WebServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/bercea/java/http/ContentType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/bercea/java/http/HttpRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/bercea/java/http/HttpResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/bercea/java/http/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/bercea/java/http/Status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/com/bercea/java/WebServerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/com/bercea/java/http/ContentTypeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/com/bercea/java/http/HttpRequestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/com/bercea/java/http/HttpResponseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-com.bercea.java.WebServerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-com.bercea.java.http.ContentTypeTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-com.bercea.java.http.HttpRequestTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-com.bercea.java.http.HttpResponseTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/com.bercea.java.WebServerTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/com.bercea.java.http.ContentTypeTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/com.bercea.java.http.HttpRequestTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/com.bercea.java.http.HttpResponseTest.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_4_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bercea/java/SeleniumTesting/Environment/EnvironmentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bercea/java/SeleniumTesting/Environment/RunEnvironment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bercea/java/SeleniumTesting/Tests/WebTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-WebServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-WebServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1kNMXrntjC0vi0bIGrLCAHdXQw6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,7 +70,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WebTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-WebServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bercea.java.SeleniumTesting.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bercea.java.SeleniumTesting.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bercea.java.SeleniumTesting.Tests.WebTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebTesting" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
